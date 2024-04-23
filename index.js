@@ -40,3 +40,35 @@
 // const perimeter = a + b + c;
 // console.log(perimeter);
 // }
+
+
+
+
+
+// function generateNumbers(n, m) {
+// 	let result = null;
+// // ========== Початок зони редагування ==============
+//     result = String(n);
+    
+//         for (let index = n + 1; index <= m; index++) {
+//           result = result + ',' + index;
+//     }
+//     return result;
+// }
+// generateNumbers(3, 3);
+
+//     function sumNumbers(n, m) {
+// 	let result = null;
+// // ========== Початок зони редагування ==============
+//     let sum=0;
+//     for (let i = n; i <= m; i += 1) {
+//         sum += i;
+//         result = sum;
+//     }    
+// // ========== Кінець зони редагування ===============
+// 	return result;
+// }
+// sumNumbers(5, 9);
+
+
+
